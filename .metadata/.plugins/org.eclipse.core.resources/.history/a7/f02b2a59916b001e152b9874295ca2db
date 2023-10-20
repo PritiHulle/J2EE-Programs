@@ -1,0 +1,9 @@
+package com.jspiders.filehandling.operation;
+
+public class CreateFileDemo2 {
+
+	public CreateFileDemo2() {
+		// TODO Auto-generated constructor stub
+	}
+
+}

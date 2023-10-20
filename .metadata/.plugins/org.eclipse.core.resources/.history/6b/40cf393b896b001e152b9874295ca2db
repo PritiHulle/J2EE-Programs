@@ -1,0 +1,9 @@
+package com.jspiders.multithreading.thread;
+
+public class Wife {
+
+	public Wife() {
+		// TODO Auto-generated constructor stub
+	}
+
+}

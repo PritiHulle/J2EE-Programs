@@ -1,0 +1,9 @@
+package com.jspiders.multithreading.main;
+
+public class AccountMain {
+
+	public AccountMain() {
+		// TODO Auto-generated constructor stub
+	}
+
+}

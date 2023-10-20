@@ -1,0 +1,9 @@
+package com.jspiders.filehandling.operation;
+
+public class CharStreamReadDemo2 {
+
+	public CharStreamReadDemo2() {
+		// TODO Auto-generated constructor stub
+	}
+
+}

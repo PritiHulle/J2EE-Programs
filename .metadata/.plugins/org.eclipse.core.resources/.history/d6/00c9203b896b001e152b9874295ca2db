@@ -1,0 +1,9 @@
+package com.jspiders.multithreading.main;
+
+public class ThreadMain2 {
+
+	public ThreadMain2() {
+		// TODO Auto-generated constructor stub
+	}
+
+}

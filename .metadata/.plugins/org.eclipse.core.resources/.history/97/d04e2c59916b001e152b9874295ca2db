@@ -1,0 +1,9 @@
+package com.jspiders.filehandling.operation;
+
+public class FileInfo {
+
+	public FileInfo() {
+		// TODO Auto-generated constructor stub
+	}
+
+}

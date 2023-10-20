@@ -1,0 +1,9 @@
+package com.jspiders.multithreading.thread;
+
+public class MyThread5 {
+
+	public MyThread5() {
+		// TODO Auto-generated constructor stub
+	}
+
+}

@@ -1,0 +1,9 @@
+package com.jspiders.filehandling.operation;
+
+public class ByteStreamWrite {
+
+	public ByteStreamWrite() {
+		// TODO Auto-generated constructor stub
+	}
+
+}

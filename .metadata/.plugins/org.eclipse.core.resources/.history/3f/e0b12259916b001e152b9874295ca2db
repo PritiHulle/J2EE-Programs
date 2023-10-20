@@ -1,0 +1,9 @@
+package com.jspiders.filehandling.operation;
+
+public class CharStreamWrite {
+
+	public CharStreamWrite() {
+		// TODO Auto-generated constructor stub
+	}
+
+}

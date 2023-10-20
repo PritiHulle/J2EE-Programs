@@ -1,0 +1,9 @@
+package com.jspiders.multithreading.resources;
+
+public class Paratha {
+
+	public Paratha() {
+		// TODO Auto-generated constructor stub
+	}
+
+}

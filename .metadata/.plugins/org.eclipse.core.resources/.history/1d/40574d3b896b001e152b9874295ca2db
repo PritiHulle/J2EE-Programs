@@ -1,0 +1,9 @@
+package com.jspiders.multithreading.thread;
+
+public class Customer {
+
+	public Customer() {
+		// TODO Auto-generated constructor stub
+	}
+
+}
